@@ -1,0 +1,26 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "shoenneil@gmail.com",
+    "longName": "SelfieWatch",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/Image-4039.png",
+                "name": "TEMP",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "2",
+    "shortName": "SelfieWatch",
+    "uuid": "464bc4bf-dbf8-4af6-a073-9b12d8f41ba8",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
